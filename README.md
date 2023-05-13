@@ -31,6 +31,6 @@
 
 ## Links para a aplicação
 
-- ✅ [Backend](https://github.com/grupo16-t13-felipe/Projeto_FullStack/tree/main/backend)
+- ✅ [Backend](https://github.com/JoabeConrado19/Car-Marketplace/tree/main/backend)
 
-- ✅ [Frontend](https://github.com/grupo16-t13-felipe/Projeto_FullStack/tree/main/frontend)
+- ✅ [Frontend](https://github.com/JoabeConrado19/Car-Marketplace/tree/main/frontend)
