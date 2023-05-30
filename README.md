@@ -1,13 +1,12 @@
 # Projeto_FullStack
 
-
-## Teste ele aqui:
-
-- [Aplicação](https://car-marketplace-gbeovm6c9-joabeconrado19.vercel.app/)
-
 ## Sobre o projeto!
 
 - Projeto realizado com o intuito de ser uma loja virtual para anunciantes e compradores de carros.
+
+## Link do site:
+
+- [Aplicação](https://car-marketplace-gbeovm6c9-joabeconrado19.vercel.app/)
 
 
 ## 🛠 Funcionalidades do site
