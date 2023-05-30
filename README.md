@@ -6,7 +6,7 @@
 
 ## Link do site:
 
-- [Aplicação](https://car-marketplace-gbeovm6c9-joabeconrado19.vercel.app/)
+- [Car-Marketplace](https://car-marketplace-gbeovm6c9-joabeconrado19.vercel.app/)
 
 
 ## 🛠 Funcionalidades do site
